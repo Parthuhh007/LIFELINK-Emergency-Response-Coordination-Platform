@@ -1,4 +1,5 @@
-# LIFELINK — Agentic AI Emergency Response & Coordination Platform
+# LIFELINK — 
+Emergency Response & Coordination Platform
 *Production-oriented emergency coordination infrastructure localized for Pune Metropolitan Area, Maharashtra, India.*
 
 ---
